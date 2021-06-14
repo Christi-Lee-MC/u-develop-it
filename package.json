@@ -20,5 +20,8 @@
   "homepage": "https://github.com/Christi-Lee-MC/u-develop-it#readme",
   "devDependencies": {
     "jest": "^27.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
